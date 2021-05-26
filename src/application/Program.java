@@ -12,6 +12,7 @@ public class Program {
 		Date x1 = new Date();
 		
 		System.out.println("Hello, word!");
+		System.out.println("Good Morning!");
 		System.out.println(sdf.format(x1));
 
 	}
